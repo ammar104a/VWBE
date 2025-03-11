@@ -98,6 +98,7 @@ DATABASES = {
 
 CORS_ALLOW_ALL_ORIGINS = True
 CSRF_TRUSTED_ORIGINS = [
+    "https://vwbe-production.up.railway.app",
     "https://5402-119-155-34-189.ngrok-free.app",
     "http://localhost",  # or "http://127.0.0.1" if preferred
 ]
