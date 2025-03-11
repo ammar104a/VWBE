@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://5402-119-155-34-189.ngrok-free.app',
                  '127.0.0.1:8000',
-                 'http://localhost:3000']
+                 'http://localhost:3000'
+                 'vwbe-production.up.railway.app']
 
 # Application definition
 
